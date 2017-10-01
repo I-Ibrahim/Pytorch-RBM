@@ -1,0 +1,4 @@
+PyTorch implementation for thesis
+
+The RBM model was primarily extracted from:
+https://github.com/odie2630463/Restricted-Boltzmann-Machines-in-pytorch
